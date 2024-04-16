@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/534_mern-8/static/css/main.c5c9d1fe.css",
+    "main.js": "/534_mern-8/static/js/main.f1d70bb4.js",
+    "static/js/453.a6a97343.chunk.js": "/534_mern-8/static/js/453.a6a97343.chunk.js",
+    "static/media/tour_img.gif": "/534_mern-8/static/media/tour_img.7ebcdfe93dc70b0643f3.gif",
+    "index.html": "/534_mern-8/index.html",
+    "main.c5c9d1fe.css.map": "/534_mern-8/static/css/main.c5c9d1fe.css.map",
+    "main.f1d70bb4.js.map": "/534_mern-8/static/js/main.f1d70bb4.js.map",
+    "453.a6a97343.chunk.js.map": "/534_mern-8/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5c9d1fe.css",
+    "static/js/main.f1d70bb4.js"
+  ]
+}
